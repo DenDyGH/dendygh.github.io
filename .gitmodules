@@ -1,0 +1,24 @@
+[submodule "nexus/plugin.video.themoviedb.helper"]
+	path = nexus/plugin.video.themoviedb.helper
+	url = https://github.com/jurialmunkey/plugin.video.themoviedb.helper
+	branch = nexus
+[submodule "nexus/script.skinhelper"]
+	path = nexus/script.skinhelper
+	url = https://github.com/DenDyGH/script.skinhelper
+	branch = main
+[submodule "nexus/skin.arctic.zephyr.2.resurrection.mod"]
+	path = nexus/skin.arctic.zephyr.2.resurrection.mod
+	url = https://github.com/DenDyGH/skin.arctic.zephyr.2.resurrection.mod
+	branch = nexus
+[submodule "omega/plugin.video.themoviedb.helper"]
+	path = omega/plugin.video.themoviedb.helper
+	url = https://github.com/jurialmunkey/plugin.video.themoviedb.helper
+	branch = nexus
+[submodule "omega/script.skinhelper"]
+	path = omega/script.skinhelper
+	url = https://github.com/DenDyGH/script.skinhelper
+	branch = main
+[submodule "omega/skin.arctic.zephyr.2.resurrection.mod"]
+	path = omega/skin.arctic.zephyr.2.resurrection.mod
+	url = https://github.com/DenDyGH/skin.arctic.zephyr.2.resurrection.mod
+	branch = main
