@@ -18,6 +18,7 @@ IGNORE = [
     ".git",
     ".github",
     ".gitignore",
+    ".gitattributes",
     ".DS_Store",
     "thumbs.db",
     ".idea",
