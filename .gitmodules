@@ -22,3 +22,11 @@
 	path = omega/skin.arctic.zephyr.2.resurrection.mod
 	url = https://github.com/DenDyGH/skin.arctic.zephyr.2.resurrection.mod
 	branch = main
+[submodule "nexus/script.module.jurialmunkey"]
+	path = nexus/script.module.jurialmunkey
+	url = https://github.com/jurialmunkey/script.module.jurialmunkey
+	branch = main
+[submodule "omega/script.module.jurialmunkey"]
+	path = omega/script.module.jurialmunkey
+	url = https://github.com/jurialmunkey/script.module.jurialmunkey
+	branch = main
