@@ -30,3 +30,7 @@
 	path = omega/script.module.jurialmunkey
 	url = https://github.com/jurialmunkey/script.module.jurialmunkey
 	branch = main
+[submodule "omega/script.skinvariables"]
+	path = omega/script.skinvariables
+	url = https://github.com/jurialmunkey/script.skinvariables
+	branch = nexus
