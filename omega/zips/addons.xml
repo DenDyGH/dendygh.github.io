@@ -58,7 +58,7 @@
 		<language />
 		<platform>all</platform>
 	</extension>
-</addon><addon id="script.skinvariables" version="2.1.19" name="Skin Variables" provider-name="jurialmunkey">
+</addon><addon id="script.skinvariables" version="2.1.20" name="Skin Variables" provider-name="jurialmunkey">
 <requires>
   <import addon="xbmc.python" version="3.0.0" />
   <import addon="script.module.jurialmunkey" version="0.1.17" />
@@ -81,7 +81,7 @@
     <fanart>fanart.jpg</fanart>
   </assets>
 </extension>
-</addon><addon id="skin.arctic.zephyr.2.resurrection.mod" name="Arctic: Zephyr 2 - Resurrection" provider-name="jurialmunkey, pkscout, heppen" version="1.0.33">
+</addon><addon id="skin.arctic.zephyr.2.resurrection.mod" name="Arctic: Zephyr 2 - Resurrection" provider-name="jurialmunkey, pkscout, heppen" version="1.0.34">
     <requires>
         <import addon="xbmc.gui" version="5.17.0" />
         <import addon="script.skinshortcuts" />
