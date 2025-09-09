@@ -90,7 +90,7 @@
     <fanart>fanart.jpg</fanart>
   </assets>
 </extension>
-</addon><addon id="skin.arctic.zephyr.2.resurrection.mod" name="Arctic: Zephyr 2 - Resurrection" provider-name="jurialmunkey, pkscout, heppen" version="1.0.40">
+</addon><addon id="skin.arctic.zephyr.2.resurrection.mod" name="Arctic: Zephyr 2 - Resurrection" provider-name="jurialmunkey, pkscout, heppen" version="1.0.41">
     <requires>
         <import addon="xbmc.gui" version="5.17.0" />
         <import addon="script.skinshortcuts" />
