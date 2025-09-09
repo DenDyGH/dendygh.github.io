@@ -1,8 +1,7 @@
 name: Update Modules
 
 on:
-  repository_dispatch:
-    types: update
+  workflow_dispatch
 
 jobs:
   update:
@@ -32,5 +31,5 @@ jobs:
       - name: Commit packages
         run: |
           git add .
-          git commit -m ":tada: - Update ${{github.event.client_payload.module}} to ${{github.event.client_payload.tag}}"
+          git commit -m ":tada: - Update"
           git push
