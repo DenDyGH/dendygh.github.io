@@ -13,7 +13,7 @@ import zipfile
 from xml.etree import ElementTree
 
 SCRIPT_VERSION = 6
-KODI_VERSIONS = ["krypton", "leia", "matrix", "nexus", "omega", "repo"]
+KODI_VERSIONS = ["nexus", "omega", "piers", "repo"]
 IGNORE = [
     ".git",
     ".github",

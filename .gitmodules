@@ -21,7 +21,7 @@
 [submodule "omega/skin.arctic.zephyr.2.resurrection.mod"]
 	path = omega/skin.arctic.zephyr.2.resurrection.mod
 	url = https://github.com/DenDyGH/skin.arctic.zephyr.2.resurrection.mod
-	branch = main
+	branch = omega
 [submodule "nexus/script.module.jurialmunkey"]
 	path = nexus/script.module.jurialmunkey
 	url = https://github.com/jurialmunkey/script.module.jurialmunkey
@@ -32,5 +32,25 @@
 	branch = main
 [submodule "omega/script.skinvariables"]
 	path = omega/script.skinvariables
+	url = https://github.com/jurialmunkey/script.skinvariables
+	branch = nexus
+[submodule "piers/plugin.video.themoviedb.helper"]
+	path = piers/plugin.video.themoviedb.helper
+	url = https://github.com/jurialmunkey/plugin.video.themoviedb.helper
+	branch = nexus
+[submodule "piers/skin.arctic.zephyr.2.resurrection.mod"]
+	path = piers/skin.arctic.zephyr.2.resurrection.mod
+	url = https://github.com/DenDyGH/skin.arctic.zephyr.2.resurrection.mod
+	branch = main
+[submodule "piers/script.skinhelper"]
+	path = piers/script.skinhelper
+	url = https://github.com/DenDyGH/script.skinhelper
+	branch = main
+[submodule "piers/script.module.jurialmunkey"]
+	path = piers/script.module.jurialmunkey
+	url = https://github.com/jurialmunkey/script.module.jurialmunkey
+	branch = main
+[submodule "piers/script.skinvariables"]
+	path = piers/script.skinvariables
 	url = https://github.com/jurialmunkey/script.skinvariables
 	branch = nexus
