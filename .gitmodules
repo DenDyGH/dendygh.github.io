@@ -54,3 +54,15 @@
 	path = piers/script.skinvariables
 	url = https://github.com/jurialmunkey/script.skinvariables
 	branch = nexus
+[submodule "nexus/script.module.infotagger"]
+	path = nexus/script.module.infotagger
+	url = https://github.com/jurialmunkey/script.module.infotagger
+	branch = main
+[submodule "omega/script.module.infotagger"]
+	path = omega/script.module.infotagger
+	url = https://github.com/jurialmunkey/script.module.infotagger
+	branch = main
+[submodule "piers/script.module.infotagger"]
+	path = piers/script.module.infotagger
+	url = https://github.com/jurialmunkey/script.module.infotagger
+	branch = main
